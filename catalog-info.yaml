@@ -7,7 +7,7 @@ metadata:
     backstage.io/adr-location: docs/adrs
     github.com/project-slug: shiftdp/test-component-test
   links:
-    - url: 'https://google.com'
+    - url: 'https://new-new-component-service-uzl2sxzu2q-oc.a.run.app'
       title: 'new-new-component Link'
       # icon: ''
       # type: ''
